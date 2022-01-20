@@ -126,3 +126,20 @@ Terrorism bad, guerilla warfare good?
 Civilians support a war at it's start (~65%)
 
 * Citizens should thus bear some responsibility BUT it's a small amount per individual
+
+
+## CS 111 OS
+
+What is systems software? 
+
+A: Software that provides services to help other software run (eg. operating systems, distributed systems, middleware, virt systems, cloud computing management)
+
+What operating systems can you name? (Participation)
+
+Arduino vs. Raspberry Pi
+* Arduino is a low power micro-controller, no gui
+* Raspberry Pi can run an OS on top of it
+* Arduino only loads one program at a time
+* Raspberry Pi can run multiple programs, potentially at the same time (concurrency not parallelism)
+
+
