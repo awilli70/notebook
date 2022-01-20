@@ -52,17 +52,15 @@ AND THEY STILL DON'T WORK
 
 ### Overview - seminar course on techniques and tools
 Why? 
-- Gain exposure to research
-- Get experience in modern debugging
-- Fun?
-Module 1: Distributed systems review
-          Current debugging tools
+* Gain exposure to research
+* Get experience in modern debugging
+* Fun?
 
-Module 2: Emerging cloud architectures
-          Techniques to understand/debug
+Module 1: Distributed systems review, Current debugging tools
+Module 2: Emerging cloud architectures, Techniques to understand/debug
 
 Discussions - 1 paper per week
-              One group presents summary
-              Next reads summaries & presents critical analysis of paper
+* One group presents summary
+* Next reads summaries & presents critical analysis of paper
 
 Projects - projects posted and ranked, and then select project groups (some projects will have external mentors!)
