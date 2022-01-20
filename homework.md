@@ -18,3 +18,13 @@ ASSIGNMENT 1:
 * Paper 5-8 pages due Thursday
 
 ### CS 150 DCC
+What is this class about?
+* Finding & analyzing bugs in distributed systems
+* Debugging is twice as hard as writing a program - write clever code, you will not be able to debug it
+* Computers are deterministic - why is debugging so hard?
+
+* Cloud Computing overview
+  * Hardware/Software infra: datacenter
+  * One or more datacenters owned by same org: cloud
+  * cloud and apps by same org: private
+  * cloud and apps owned by different orgs: public
