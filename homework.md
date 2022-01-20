@@ -1,6 +1,4 @@
-# Homework/ Class Notes
-
-## 2022/01/20
+# Homework/ Class Notes 2022/01/20
 
 ### ED 01
 * Lots of readings, writing (maybe PF?)
