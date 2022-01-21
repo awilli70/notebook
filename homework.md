@@ -130,16 +130,59 @@ Civilians support a war at it's start (~65%)
 
 ## CS 111 OS
 
-What is systems software? 
+### What is systems software? 
 
 A: Software that provides services to help other software run (eg. operating systems, distributed systems, middleware, virt systems, cloud computing management)
 
 What operating systems can you name? (Participation)
 
-Arduino vs. Raspberry Pi
+### Arduino vs. Raspberry Pi
+
 * Arduino is a low power micro-controller, no gui
 * Raspberry Pi can run an OS on top of it
 * Arduino only loads one program at a time
 * Raspberry Pi can run multiple programs, potentially at the same time (concurrency not parallelism)
+* Arduino has no display capability, no usb
+* Raspberry Pi has usb, ethernet, mini-hdmi, audio -- possible BECAUSE of operating system
 
+### What does an OS do?
 
+* Manage hardware resources
+  * CPU, memory, I/O, etc
+* Provide abstractions to applications
+  * consistent interface to devices, files & directories, virtual machines
+
+More specifically:
+
+* extensibility (new drivers, etc)
+* resource sharing
+* security
+* performance (Don't want to add too much overhead, take up too much memory)
+
+### How an operating system acutally runs
+
+Limited direct execution
+
+* If it has an instruction to run, it directly executes it on the hardware
+
+Discontinuities
+
+* Direct execution is interrupted, either by HW (interrupt or exception)
+* Interrupt
+  1. Hardware throws interrupt/ exception
+  2. OS handles input from I/O device (interrupt) or Processor (exception)
+  3. OS runs code using direct execution, then resumes application (if still running) - Context Switch based upon interrupt, represent overhead to change what's being executed
+
+* UNIX signals (application interacting with the OS [potentially for I/O])
+  1. Application sends trap signal to switch from app to OS
+  2. OS does something
+  3. OS sends an upcall to the application, transfers execution back
+  * In UNIX, app has signal handler
+
+Internal/External - originates from on/ off the CPU
+
+Synchronous/Asynchronous - occurs at a point in code, or happens at any point
+|          | Sync           | Async     |
+|----------|----------------|-----------|
+| Internal | Trap/Exception |           |
+| External |                | Interrupt |
