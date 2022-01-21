@@ -185,5 +185,5 @@ Synchronous/Asynchronous - occurs at a point in code, or happens at any point
 
 |          	| Sync           	| Async     	|
 |----------	|----------------	|-----------	|
-| Internal 	| Trap/Exception 	|           	|
+| Internal 	| &nbsp;Trap/Exception 	|           	|
 | External 	|                	| Interrupt 	|
