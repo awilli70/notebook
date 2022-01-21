@@ -182,6 +182,7 @@ Discontinuities
 Internal/External - originates from on/ off the CPU
 
 Synchronous/Asynchronous - occurs at a point in code, or happens at any point
+
 |          | Sync           | Async     |
 |----------|----------------|-----------|
 | Internal | Trap/Exception |           |
