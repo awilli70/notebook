@@ -7,6 +7,7 @@
 ## Semester:
 ### January
 * 2 hours of piazza
+* 2 hours of meetings Wednesday 26 
 * 6 hours of gradescope editing Monday 24
 * 1 hour of gradescope editing Sunday 23
 * 4 hrs recitations Friday 21 (1 hr prep, 3 hours)
