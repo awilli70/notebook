@@ -1,12 +1,23 @@
 # HOUR LOG
 
-## Pre Semester:
+## Pre Semester: LOGGED
 2 hours of calls
 8 hours of course infra
 
 ## Semester:
 ### January
-* 2 hours of piazza
+Unlogged:
+
+* 1.5 hr gradescope Sunday 30
+
+    ---
+
+Logged:
+
+* 1 hr regrades Monday 31
+* 4 hrs recitations Friday 28
+* 3 hrs grading Friday 28
+* 2 hours of piazza 
 * 2 hours of meetings Wednesday 26 
 * 6 hours of gradescope editing Monday 24
 * 1 hour of gradescope editing Sunday 23
