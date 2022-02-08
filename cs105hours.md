@@ -5,6 +5,16 @@
 8 hours of course infra
 
 ## Semester:
+### February
+Unlogged:
+
+* 2 hours of gradescope Tuesday 08
+* 5 hours of regrades Monday 07
+* 3 hours of grading Friday 04
+* 3.5 hours recitations Friday 04
+* 2 hours of meetings Wednesday 02
+* 1.5 hrs gradescope Tuesday 01
+
 ### January
 Unlogged:
 
