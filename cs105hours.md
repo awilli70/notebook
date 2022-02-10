@@ -8,6 +8,9 @@
 ### February
 Unlogged:
 
+* 4 hours of gradescope Thursday 10
+* 2 hours of meetings Wednesday 09
+* 1 hours of regrades Wednesday 09
 * 2 hours of gradescope Tuesday 08
 * 5 hours of regrades Monday 07
 * 3 hours of grading Friday 04
