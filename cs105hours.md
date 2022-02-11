@@ -8,6 +8,9 @@
 ### February
 Unlogged:
 
+* 1.5 hours course logistics Friday 11
+* 3 hours of grading Friday 11
+* 3.5 hours recitations Friday 11
 * 4 hours of gradescope Thursday 10
 * 2 hours of meetings Wednesday 09
 * 1 hours of regrades Wednesday 09
