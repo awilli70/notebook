@@ -8,6 +8,7 @@
 ### February
 Unlogged:
 
+* 1 hour regrades Tuesday 15
 * 5 hours regrades and course logistics Monday 14
 * 1.5 hours course logistics Friday 11
 * 3 hours of grading Friday 11
