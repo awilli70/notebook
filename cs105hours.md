@@ -8,30 +8,31 @@
 ### February
 Unlogged:
 
-* 1 hour regrades Tuesday 15
-* 5 hours regrades and course logistics Monday 14
-* 1.5 hours course logistics Friday 11
-* 3 hours of grading Friday 11
-* 3.5 hours recitations Friday 11
-* 4 hours of gradescope Thursday 10
-* 2 hours of meetings Wednesday 09
-* 1 hours of regrades Wednesday 09
-* 2 hours of gradescope Tuesday 08
-* 5 hours of regrades Monday 07
-* 3 hours of grading Friday 04
-* 3.5 hours recitations Friday 04
-* 2 hours of meetings Wednesday 02
-* 1.5 hrs gradescope Tuesday 01
-
-### January
-Unlogged:
-
-* 1.5 hr gradescope Sunday 30
-
-    ---
+* 1 hour     meetings                       Wednesday 23
+* 2 hours    gradescope                     Tuesday 22
+* 3.5 hours  recitations                    Friday 18
+* 2 hours    meetings                       Wednesday 16
+* 1 hour     regrades                       Tuesday 15
 
 Logged:
 
+* 5 hours    regrades and course logistics  Monday 14
+* 1.5 hours  course logistics               Friday 11
+* 3 hours    grading                        Friday 11
+* 3.5 hours  recitations                    Friday 11
+* 4 hours    gradescope                     Thursday 10
+* 2 hours    meetings                       Wednesday 09
+* 1 hours    regrades                       Wednesday 09
+* 2 hours    gradescope                     Tuesday 08
+* 5 hours    regrades                       Monday 07
+* 3 hours    grading                        Friday 04
+* 3.5 hours  recitations                    Friday 04
+* 2 hours    meetings                       Wednesday 02
+* 1.5 hrs    gradescope                     Tuesday 01
+
+### January
+
+* 1.5 hr gradescope Sunday 30
 * 1 hr regrades Monday 31
 * 4 hrs recitations Friday 28
 * 3 hrs grading Friday 28
