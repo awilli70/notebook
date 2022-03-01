@@ -8,6 +8,10 @@
 ### February
 Unlogged:
 
+* 1 hour     course infra                   Sunday 27
+* 1 hour     course logistics               Friday 25
+* 2 hours    regrades                       Friday 25
+* 3 hours    grading                        Friday 25
 * 1 hour     meetings                       Wednesday 23
 * 2 hours    gradescope                     Tuesday 22
 * 3.5 hours  recitations                    Friday 18
