@@ -5,6 +5,12 @@
 8 hours of course infra
 
 ## Semester:
+
+### March
+
+* 2 hours    meetings                       Tuesday 2 
+* 2 hours    gradescope                     Monday 1
+
 ### February
 Unlogged:
 
