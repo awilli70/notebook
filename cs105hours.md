@@ -8,8 +8,16 @@
 
 ### March
 
-* 2 hours    meetings                       Tuesday 2 
-* 2 hours    gradescope                     Monday 1
+* 1 hour     course infra                   Friday 11
+* 3 hours    grading                        Friday 11
+* 3.5 hours  recitation                     Friday 11
+* 1 hour     course infra                   Thursday 10
+* 2 hours    meetings                       Wednesday 9
+* 1 hour     gradescope                     Monday 7
+* 3.5 hours  recitation                     Friday 4
+* 4 hours    course infra                   Friday 4
+* 2 hours    meetings                       Wednesday 2
+* 2 hours    gradescope                     Monday 28
 
 ### February
 Unlogged:
