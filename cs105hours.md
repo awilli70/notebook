@@ -6,7 +6,22 @@
 
 ## Semester:
 
+### April
+
+* 1 hour     regrades                       Friday 1
+* 3 hours    grading                        Friday 1
+* 1 hour     training Ankur                 Friday 1
+* 3.5 hours  recitations                    Friday 1
+
 ### March
+
+* 2.5 hours  meetings                       Wednesday 30
+* 2 hours    training Ankur                 Monday 28
+* 4 hours    office hours                   Friday 18
+* 3.5 hours  office hours                   Thursday 17
+* 1 hour     meetings                       Wednesday 16
+
+Logged:
 
 * 1 hour     course infra                   Friday 11
 * 3 hours    grading                        Friday 11
@@ -20,7 +35,6 @@
 * 2 hours    gradescope                     Monday 28
 
 ### February
-Unlogged:
 
 * 1 hour     course infra                   Sunday 27
 * 1 hour     course logistics               Friday 25
@@ -31,9 +45,6 @@ Unlogged:
 * 3.5 hours  recitations                    Friday 18
 * 2 hours    meetings                       Wednesday 16
 * 1 hour     regrades                       Tuesday 15
-
-Logged:
-
 * 5 hours    regrades and course logistics  Monday 14
 * 1.5 hours  course logistics               Friday 11
 * 3 hours    grading                        Friday 11
