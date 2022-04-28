@@ -8,13 +8,45 @@
 
 ### April
 
+2 hours      regrades                       Wednesday 27
+1 hour       meeting                        Wednesday 27
+2 hours      gradescope                     Tuesday   26
+
+###### LOG UP TO HERE ######
+1 hour       richard meeting                Monday    25
+
+1.5 hours    recitation                     Thursday  21
+
+1 hour       recit meeting                  Wednesday 20
+1 hour       nr meeting                     Wednesday 20
+
+35
+4 hours      grading+regrades               Friday 15
+
+31
+1 hours      meetings                       Wednesday 13
+
+
+30 logged
+4 hours      grading+regrades               Friday 8
+
+26
+3.5 hours    recitations                    Friday 8
+
+22.5
+1.5 hours    meetings                       Wednesday 6
+
+21 logged
 * 1 hour     regrades                       Friday 1
+20
 * 3 hours    grading                        Friday 1
+17
 * 1 hour     training Ankur                 Friday 1
+16
 * 3.5 hours  recitations                    Friday 1
 
 ### March
-
+#### 12.5
 * 2.5 hours  meetings                       Wednesday 30
 * 2 hours    training Ankur                 Monday 28
 * 4 hours    office hours                   Friday 18
